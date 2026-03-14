@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://kingrahma.github.io/video-editor/</loc>
+  <lastmod>2026-03-14T19:22:19+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://kingrahma.github.io/video-editor/index.html</loc>
+  <lastmod>2026-03-14T19:22:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kingrahma.github.io/video-editor/about.html</loc>
+  <lastmod>2026-03-14T19:22:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kingrahma.github.io/video-editor/works.html</loc>
+  <lastmod>2026-03-14T19:22:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kingrahma.github.io/video-editor/contact.html</loc>
+  <lastmod>2026-03-14T19:22:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kingrahma.github.io/video-editor/blog-video-editing.html</loc>
+  <lastmod>2026-03-14T19:22:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
