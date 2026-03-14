@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+Allow: sitemap.xml
+Allow: sitemap.html
+Disallow: /admin/
+Disallow: /Login/
+
+Sitemap: https://kingrahma.github.io/video-editor/sitemap.xml
+  
